@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "566204394125",
+    "project_id": "pinteresto",
+    "storage_bucket": "pinteresto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566204394125:android:a531000e02b49130ef90c4",
+        "android_client_info": {
+          "package_name": "com.example.pintresto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566204394125-pkb0q87a6shb42q73rt6g7pgtbslt9av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pintresto",
+            "certificate_hash": "4bcb8897f21dd4ab503cc20efc6f35eeebb6a047"
+          }
+        },
+        {
+          "client_id": "566204394125-soivq3ses92koc8m6nfll7sblli06jjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh7u5aG5NqMgOui1KCcuszR1Ztu3majNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566204394125-soivq3ses92koc8m6nfll7sblli06jjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
